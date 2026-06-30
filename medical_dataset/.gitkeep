@@ -1,0 +1,3 @@
+# This file ensures the directory is tracked by git
+# Large dataset files (medical_lora_*.json, medical_datase_clean.parquet) are stored locally
+# See README.md for details on obtaining these files
